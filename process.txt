@@ -24,6 +24,7 @@ to the respective view.
 we have to use that method because we are using class based views with 
 inheriting yeararchiveview and templateview as parent classes.
 
+
 next in html files use jinja pattern to retrieve the desired info from the 
 lists created in the class based views.
 
@@ -55,3 +56,4 @@ code extendability, code structuring are some of the other uses of CBVs.
 
 
 
+Hello. This is Ashwini Mohapatra. I am making changes to the process file. Please check if its working
